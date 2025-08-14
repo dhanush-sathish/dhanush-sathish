@@ -55,9 +55,10 @@ Always curious, always learning — from optimizing database queries to deployin
 
 ## 🔄 Auto-Updating Badges  
 
-![Profile Views](https://komarev.com/ghpvc/?username=dhanush-sathish&color=blue)  
-![GitHub followers](https://img.shields.io/github/followers/dhanush-sathish?label=Followers&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/dhanush-sathish?label=Stars&style=social)  
+![Profile Views](https://komarev.com/ghpvc/?username=dhanush-sathish&color=blue)
+![Followers](https://img.shields.io/github/followers/dhanush-sathish?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/dhanush-sathish?label=Stars&style=social)
+ 
 
 ---
 
