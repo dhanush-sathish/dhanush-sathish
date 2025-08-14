@@ -3,12 +3,21 @@
 
 ---
 
-## 🚀 About Me  
-- 🔭 I’m currently working on **full-stack web applications**  
-- 🌱 I’m learning **advanced system design & DevOps tools**  
-- 💬 Ask me about **React, Node.js, Java, Python, and API design**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-- ⚡ Fun fact: I love solving coding challenges and building scalable apps 🚀  
+## 🧑‍💻 Bio  
+I’m a passionate **Full-Stack Developer** who loves building scalable web applications and solving complex problems.  
+With experience in **React, Node.js, Spring Boot, and Django**, I enjoy crafting clean UI/UX and writing maintainable backend code.  
+Always curious, always learning — from optimizing database queries to deploying cloud-ready solutions 🚀.  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="left">
+<a href="https://github.com/YOUR-USERNAME" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR-EMAIL" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://YOUR-PORTFOLIO.com" target="blank"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -28,11 +37,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Others:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats  
@@ -41,15 +45,24 @@
 
 ---
 
-## 🌟 Projects Highlight  
-- 🔹 [Project 1](https://github.com/YOUR-USERNAME/PROJECT1) — Description of project  
-- 🔹 [Project 2](https://github.com/YOUR-USERNAME/PROJECT2) — Description of project  
-- 🔹 [Project 3](https://github.com/YOUR-USERNAME/PROJECT3) — Description of project  
+## 🐍 GitHub Contribution Snake  
+![GitHub Snake Light](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
+![GitHub Snake Dark](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
 
 ---
 
-## 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blue)
+## 🔄 Auto-Updating Badges  
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blue)  
+![GitHub followers](https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=social)  
+![GitHub stars](https://img.shields.io/github/stars/YOUR-USERNAME?label=Stars&style=social)  
+
+---
+
+## 🌟 Featured Projects  
+- 🔹 [Project 1](https://github.com/YOUR-USERNAME/PROJECT1) — Description of project  
+- 🔹 [Project 2](https://github.com/YOUR-USERNAME/PROJECT2) — Description of project  
+- 🔹 [Project 3](https://github.com/YOUR-USERNAME/PROJECT3) — Description of project  
 
 ---
 
