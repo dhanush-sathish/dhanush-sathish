@@ -1,22 +1,29 @@
 name: Generate Snake
 
 on:
+  push:
+    branches:
+      - main  # Change this if your default branch has a different name
   schedule:
     - cron: "0 0 * * *" # Runs every day at midnight
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual run
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@master
         with:
           github_user_name: dhanush-sathish
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Push snake
+
+      - name: Push Snake to output branch
         uses: EndBug/add-and-commit@v9
         with:
           branch: output
