@@ -2,30 +2,32 @@ name: Generate Snake
 
 on:
   push:
-    branches:
-      - main  # Change this if your default branch has a different name
+    branches: [ main ]
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
-  workflow_dispatch: # Allows manual run
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write   # <-- This line gives the workflow push rights
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate Snake SVG
-        uses: Platane/snk@master
+      - name: Generate SVGs
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: dhanush-sathish
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake to output branch
+      - name: Push to output branch
         uses: EndBug/add-and-commit@v9
         with:
-          branch: output
-          message: "Generate Snake"
           add: "dist/*"
+          message: "chore: generate snake"
+          branch: output
