@@ -40,22 +40,22 @@ Always curious, always learning — from optimizing database queries to deployin
 ---
 
 ## 📊 GitHub Stats  
-![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)  
+![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanush-sathish&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-sathish&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🐍 GitHub Contribution Snake  
-![GitHub Snake Light](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/dhanush-sathish/dhanush-sathish/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/dhanush-sathish/dhanush-sathish/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
 ## 🔄 Auto-Updating Badges  
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blue)  
-![GitHub followers](https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/YOUR-USERNAME?label=Stars&style=social)  
+![Profile Views](https://komarev.com/ghpvc/?username=dhanush-sathish&color=blue)  
+![GitHub followers](https://img.shields.io/github/followers/dhanush-sathish?label=Followers&style=social)  
+![GitHub stars](https://img.shields.io/github/stars/dhanush-sathish?label=Stars&style=social)  
 
 ---
 
@@ -66,4 +66,4 @@ Always curious, always learning — from optimizing database queries to deployin
 
 ---
 
-⭐️ From [Dhanush](https://github.com/YOUR-USERNAME)
+⭐️ From [Dhanush](https://github.com/dhanush-sathish)
