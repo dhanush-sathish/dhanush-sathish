@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Dhanush  
 
-<!--
-**dhanush-sathish/dhanush-sathish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Java & React Native projects**  
+- 🌱 I’m learning **DSA & Web Development**  
+- 💬 Ask me about **Java, Python, or React**  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- ⚡ Fun fact: I love problem solving & building apps 🚀  
 
-Here are some ideas to get you started:
+### 🛠️ Languages and Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+⭐️ From [Dhanush](https://github.com/mdhanush)
