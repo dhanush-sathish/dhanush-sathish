@@ -46,7 +46,11 @@ Always curious, always learning — from optimizing database queries to deployin
 ---
 
 ## 🐍 GitHub Contribution Snake  
-![Snake animation](dist/github-contribution-grid-snake.svg)
+<!-- Light mode -->
+![Snake animation](dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<!-- Dark mode -->
+![Snake animation](dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
