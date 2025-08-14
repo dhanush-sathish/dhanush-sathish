@@ -46,8 +46,7 @@ Always curious, always learning — from optimizing database queries to deployin
 ---
 
 ## 🐍 GitHub Contribution Snake  
-![GitHub Snake dark](https://raw.githubusercontent.com/dhanush-sathish/dhanush-sathish/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake light](https://raw.githubusercontent.com/dhanush-sathish/dhanush-sathish/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](dist/github-contribution-grid-snake.svg)
 
 ---
 
