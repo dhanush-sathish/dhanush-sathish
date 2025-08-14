@@ -46,8 +46,8 @@ Always curious, always learning — from optimizing database queries to deployin
 ---
 
 ## 🐍 GitHub Contribution Snake  
-![GitHub Snake Light](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
-![GitHub Snake Dark](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
+![GitHub Snake Light](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
