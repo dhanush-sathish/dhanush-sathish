@@ -40,8 +40,7 @@ Always curious, always learning — from optimizing database queries to deployin
 ---
 
 ## 📊 GitHub Stats  
-![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanush-sathish&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-sathish&layout=compact&theme=tokyonight)  
+![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanush-sathish&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-sathish&layout=compact&theme=tokyonight)  
 
 ---
 
